@@ -1,4 +1,4 @@
-# HLASM-visualiser WIP
+# HLASM-visualizer WIP
 
-Project can be viewed online by the github pages link; https://badersarah.github.io/HLASM-analyser/ 
+Project can be viewed online by the github pages link; https://badersarah.github.io/HLASM-visualizer/ 
         

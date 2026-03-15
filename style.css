@@ -40,7 +40,7 @@ header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    height: 55px;
+    height: 40px;
     
     #title{
         padding-left: 25px;
@@ -211,7 +211,7 @@ footer{
 
 #github{
     color: #2b2c2c;
-    padding-right: 25px;
+    padding-left: 25px;
     /* padding-top: 10px; */
 }
 
@@ -221,7 +221,7 @@ footer{
 
 #creator{
     font-size: smaller;
-    padding-left: 25px;
+    padding-right: 25px;
     margin-top: 0;
 }
 
